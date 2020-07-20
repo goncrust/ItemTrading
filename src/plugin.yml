@@ -1,0 +1,4 @@
+name: Trading
+version: 0.1
+main: me.goncrust.Main
+api-version: 1.15
